@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Peter Jose</h1>
 <h3 align="center">A passionate Full Stack Web and Mobile Developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **Flutter and Nodejs**.
+- 🌱 I’m currently learning **Flutter(Dart) and Nodejs**.
 
-- 💬 Ask me about **Flutter and Nodejs**
+- 💬 Ask me about **Flutter(Dart) and Nodejs**
 
 - 📫 How to reach me **peterjose65@gmail.com**
 
