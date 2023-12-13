@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Peter Jose</h1>
 <h3 align="center">A passionate Full Stack Web and Mobile Developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **Flutter(Dart), ExpressJs(Nodejs), MongoDB, MySQL+Prisma(ORM)**.
+- 🌱 I’m currently learning **Flutter(Dart), ExpressJS(NodeJS), MongoDB, MySQL+Prisma(ORM)**.
 
-- 💬 Ask me about **Flutter(Dart), ExpressJs(Nodejs), MongoDB, MySQL+Prisma(ORM)**
+- 💬 Ask me about **Flutter(Dart), ExpressJS(NodeJS), MongoDB, MySQL+Prisma(ORM)**
 
 - 📫 How to reach me **peterjose65@gmail.com**
 
