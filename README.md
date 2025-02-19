@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Peter Jose</h1>
 <h3 align="center">A passionate Full Stack Web and Mobile Developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **Laravel (PHP), Express.js(Node.js), MongoDB, MySQL, Flutter(Dart)**.
+- 🌱 I’m currently learning **ReactJs, and Golang**.
 
 - 💬 Ask me about **Programming, Technology, or Anything you want to discuss**.
 
